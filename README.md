@@ -50,3 +50,10 @@ The program uses manual selection to define the fretboard area, then:
 ## Output Format
 
 The program writes to a file called `guitar_positions.txt` with content like:
+
+## Inspiration/Research Material
+https://www.idmil.org/project/guitar-fingering-recognition/
+https://github.com/paulden/guitar-fingering-recognition
+
+## Contact
+samuel.keke at Outlook.com
