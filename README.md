@@ -1,4 +1,4 @@
-# Guitar Finger Position Detector
+# Guitar Finger Position Detector aka TabbyCat
 
 This program uses MediaPipe and OpenCV to detect finger positions on a guitar fretboard and record them to a text file. It uses manual selection to define the fretboard area.
 
